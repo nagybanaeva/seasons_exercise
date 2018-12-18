@@ -1,0 +1,37 @@
+
+.winter {
+background-color: aliceblue;
+}
+
+.spring {
+background-color: papayawhip;
+}
+
+.autumn {
+background-color: darkkhaki;
+}
+
+
+.summer {
+background-color: aquamarine;
+}
+
+img {
+    width: 75%;
+    float: right;
+}
+
+h1{
+    width: 10%;
+    display: block;
+    float: left;
+    text-align: right;
+    margin-left: 3rem;
+}
+
+p {
+    width: 10%;
+    float: none;
+    text-align: right;
+    margin-left: 3rem;
+}
