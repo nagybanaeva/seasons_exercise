@@ -37,10 +37,15 @@ p {
 }
 
 @media (max-width: 767px){
-img, h1, p  {
-    width: 100%;
-    float: none;
-    margin: 1rem auto 1rem auto;
-    text-align: center;
+h1, p  {
+    margin-left: 1rem;
+    }
+    
+h1{
+    font-size: 1.2rem;
+    }
+    
+p{
+    font-size: 0.9rem;
     }
 }
